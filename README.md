@@ -1,5 +1,5 @@
 # drones_fight_bushfires
-Develop strategy for using drones to support Australian bushfire firefighters using ODE modeling (COMAP MCM 2021 International Honorable Mention)
+Goal: develop strategy for using drones to support Australian bushfire firefighters using ODE modeling (COMAP MCM 2021 International Honorable Mention)
 
 As wildfires present an increasing threat to Victoria, Australia, firefighters must be equipped with two key tools: **information and communication.**
 
